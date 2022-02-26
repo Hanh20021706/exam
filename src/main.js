@@ -1,5 +1,5 @@
 import Navigo from "navigo";
-import listProducts from ".";
+import listProduct from ".";
 import addProduct from "./add";
 import editProduct from "./edit";
 
@@ -12,7 +12,7 @@ const print = async (component, id) => {
 
 router.on({
     "/": () => {
-        print(listProducts);
+        print(listProduct);
     },
     "/add/product": () => {
         print(addProduct);
