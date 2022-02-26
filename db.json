@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "bùi hồng hạnh",
+      "img": "http://res.cloudinary.com/dkpulhfe7/image/upload/v1645886202/image%20news/cggaqkylosyicpdix5hp.jpg",
+      "price": "44",
+      "desc": "grtre"
+    },
+    {
+      "id": 3,
+      "name": "bùi hồng hạnh",
+      "img": "http://res.cloudinary.com/dkpulhfe7/image/upload/v1645888461/image%20news/rhhi2fe5thvqbxfay00t.jpg",
+      "price": "34",
+      "desc": "dsafsd"
+    }
+  ],
+  "categories": []
+}
