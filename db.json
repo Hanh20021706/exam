@@ -1,12 +1,30 @@
 {
   "products": [
     {
-      "id": 2,
       "name": "bùi hồng hạnh",
-      "img": "http://res.cloudinary.com/dkpulhfe7/image/upload/v1645892001/image%20news/jlbjxewvq9debbomtm9k.jpg",
-      "price": "33",
-      "desc": "dsjhgvcfuywtdcuyw"
+      "img": "http://res.cloudinary.com/dkpulhfe7/image/upload/v1646229269/ass/jhniopqnl26iy71y2gem.jpg",
+      "price": "45000",
+      "desc": "hghfgh",
+      "categoryId": 1,
+      "id": 1
+    },
+    {
+      "name": "bùi hồng hạnh",
+      "img": "http://res.cloudinary.com/dkpulhfe7/image/upload/v1646230636/ass/auara57tchrfnpkqac4y.jpg",
+      "price": "4",
+      "desc": "fdfds",
+      "categoryId": "2",
+      "id": 2
     }
   ],
-  "categories": []
+  "categories": [
+    {
+      "name": "t-shirt",
+      "id": 1
+    },
+    {
+      "name": "shose",
+      "id": 2
+    }
+  ]
 }
